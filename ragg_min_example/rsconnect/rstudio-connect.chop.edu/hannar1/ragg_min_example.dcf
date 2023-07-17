@@ -1,0 +1,13 @@
+name: ragg_min_example
+title: ragg_min_example
+username: hannar1
+account: hannar1
+server: rstudio-connect.chop.edu
+hostUrl: https://rstudio-connect.chop.edu/__api__
+appId: 4050
+bundleId: 308586
+url: https://rstudio-connect.chop.edu/content/9c190df2-6d23-4bcf-8bd1-bbfd26721967/
+when: 1689607597.87142
+lastSyncTime: 1689607597.87143
+asMultiple: FALSE
+asStatic: FALSE

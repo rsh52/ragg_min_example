@@ -1,0 +1,13 @@
+name: ragg_min_example
+title: ragg_min_example
+username:
+account: rsh52
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9467695
+bundleId: 7466325
+url: https://rsh52.shinyapps.io/ragg_min_example/
+when: 1689607941.0651
+lastSyncTime: 1689607941.06511
+asMultiple: FALSE
+asStatic: FALSE
